@@ -1,2 +1,2 @@
 # Baconrp
-sever web
+Darkrp Semi-Serious Sever
